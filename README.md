@@ -2,9 +2,6 @@
 
 Computer Science Student & Full-Stack Developer specializing in AI, Machine Learning, Deep Learning, Systems Programming, and Linux Environments.
 
-[![Email](https://img.shields.io/badge/Email-anasalikhan356%40gmail.com-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasalikhan356@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-anaskhan356-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaskhan356)
-
 ---
 
 ### 🚀 Tech Stack & Skills
